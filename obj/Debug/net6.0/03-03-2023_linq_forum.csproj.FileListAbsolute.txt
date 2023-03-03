@@ -1,0 +1,15 @@
+C:\Users\profi\Documents\GitHub\03-03-2023_linq_forum\bin\Debug\net6.0\03-03-2023_linq_forum.exe
+C:\Users\profi\Documents\GitHub\03-03-2023_linq_forum\bin\Debug\net6.0\03-03-2023_linq_forum.deps.json
+C:\Users\profi\Documents\GitHub\03-03-2023_linq_forum\bin\Debug\net6.0\03-03-2023_linq_forum.runtimeconfig.json
+C:\Users\profi\Documents\GitHub\03-03-2023_linq_forum\bin\Debug\net6.0\03-03-2023_linq_forum.dll
+C:\Users\profi\Documents\GitHub\03-03-2023_linq_forum\bin\Debug\net6.0\03-03-2023_linq_forum.pdb
+C:\Users\profi\Documents\GitHub\03-03-2023_linq_forum\obj\Debug\net6.0\03-03-2023_linq_forum.csproj.AssemblyReference.cache
+C:\Users\profi\Documents\GitHub\03-03-2023_linq_forum\obj\Debug\net6.0\03-03-2023_linq_forum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Documents\GitHub\03-03-2023_linq_forum\obj\Debug\net6.0\03-03-2023_linq_forum.AssemblyInfoInputs.cache
+C:\Users\profi\Documents\GitHub\03-03-2023_linq_forum\obj\Debug\net6.0\03-03-2023_linq_forum.AssemblyInfo.cs
+C:\Users\profi\Documents\GitHub\03-03-2023_linq_forum\obj\Debug\net6.0\03-03-2023_linq_forum.csproj.CoreCompileInputs.cache
+C:\Users\profi\Documents\GitHub\03-03-2023_linq_forum\obj\Debug\net6.0\03-03-2023_linq_forum.dll
+C:\Users\profi\Documents\GitHub\03-03-2023_linq_forum\obj\Debug\net6.0\refint\03-03-2023_linq_forum.dll
+C:\Users\profi\Documents\GitHub\03-03-2023_linq_forum\obj\Debug\net6.0\03-03-2023_linq_forum.pdb
+C:\Users\profi\Documents\GitHub\03-03-2023_linq_forum\obj\Debug\net6.0\03-03-2023_linq_forum.genruntimeconfig.cache
+C:\Users\profi\Documents\GitHub\03-03-2023_linq_forum\obj\Debug\net6.0\ref\03-03-2023_linq_forum.dll
