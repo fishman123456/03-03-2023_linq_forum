@@ -8,9 +8,9 @@ namespace _03_03_2023_linq_forum
 {
     public class human
     {
-        string name{ get; set; }
-        string soneme { get; set; }
-        int age { get; set; }
+     public   string name{ get; set; }
+     public   string soneme { get; set; }
+     public   int age { get; set; }
         public human(string _name, string _soneme, int _age)
         {
            name = _name;

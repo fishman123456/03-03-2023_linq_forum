@@ -2,9 +2,9 @@
 
 using _03_03_2023_linq_forum;
 
-human d = new human("эдуард", "коляка", 46);
+//human d = new human("эдуард", "коляка", 46);
 
-Console.WriteLine(d);
+//Console.WriteLine(d);
 human[] peoples = {
     new human("петр", "петров", 36),
     new human("иван", "федоров", 45),
@@ -17,3 +17,10 @@ human[] peoples = {
     new human("ольга", "еременко", 43),
     new human("света", "пивченко", 56)
     };
+
+var pol = from p in peoples where p.name.StartsWith("а") select p;
+
+foreach (var ip in pol)
+{
+    Console.WriteLine(ip.ToString());
+}
