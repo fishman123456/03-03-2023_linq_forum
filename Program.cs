@@ -2,8 +2,7 @@
 
 using _03_03_2023_linq_forum;
 
-//human d = new human("эдуард", "коляка", 46);
-
+//human d = new human("эдуард", "коляка", 46)
 //Console.WriteLine(d);
 human[] peoples = {
     new human("петр", "петров", 36),
@@ -17,10 +16,15 @@ human[] peoples = {
     new human("ольга", "еременко", 43),
     new human("света", "пивченко", 56)
     };
+var pol = from p in peoples where p.name.StartsWith("е") select p;
 
-var pol = from p in peoples where p.name.StartsWith("а") select p;
+//foreach (var ip in pol)
+//{
+//    Console.WriteLine(ip.ToString());
+//}
+var data  = peoples.Select(p => p.name).ToList();
 
-foreach (var ip in pol)
+foreach (var ppp in data)
 {
-    Console.WriteLine(ip.ToString());
+    Console.WriteLine(ppp.ToString());
 }
